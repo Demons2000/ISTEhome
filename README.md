@@ -2,47 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--used to set width of conetnt according to device width-->
-    <title>ISTE HOMEPAGE</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-<a href="index.html"><h1><img src="logo.png" align="left" alt="iste logo" ><div class="head">INDIAN SOCIETY FOR TECHNICAL EDUCATION</div></h1></a>
-<ul class="nav">
-<a href="#"><li class="first">HOME</li></a>
-  <a href="#"><li>About</li></a>
-  <a href="#"><li>Events</li></a>
-  <a href="#"><li>Gallery</li></a>
-  <a href="#"><li>Team</li></a>
-  <a href=""><li>Contact</li></a>
-</ul>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-<p>ISTE HOMEPAGE-indian society for technical education</p>
-  </body>
-</html>
-
-#css
-* {
+    <style>
+      * {
   box-sizing: border-box;
 }
 li {
@@ -99,5 +60,47 @@ ul {
   background-color: #191919;
 
 }
+      </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--used to set width of conetnt according to device width-->
+    <title>ISTE HOMEPAGE</title>
+   <!-- <link rel="stylesheet" href="style.css">-->
+  </head>
+  <body>
+<a href="index.html"><h1><img src="logo.png" align="left" alt="iste logo" ><div class="head">INDIAN SOCIETY FOR TECHNICAL EDUCATION</div></h1></a>
+<ul class="nav">
+<a href="#"><li class="first">HOME</li></a>
+  <a href="#"><li>About</li></a>
+  <a href="#"><li>Events</li></a>
+  <a href="#"><li>Gallery</li></a>
+  <a href="#"><li>Team</li></a>
+  <a href=""><li>Contact</li></a>
+</ul>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+<p>ISTE HOMEPAGE-indian society for technical education</p>
+  </body>
+</html>
+
+#css
+
 
 
