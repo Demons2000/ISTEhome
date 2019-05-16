@@ -1,11 +1,12 @@
 # ISTEhome
-<!DOCTYPE html>
+<!DOCTYPE html>ini
 <html lang="en">
   <head>
     <style>
       * {
   box-sizing: border-box;
 }
+<!--to give box around every element-->      
 li {
   display: inline-block;
   text-align: center;
@@ -18,7 +19,9 @@ li {
 
   transition: 0.4s;
   cursor: pointer;
+  <!--transition time and using mouse pointer as cursor as-->
 }
+  
 a li:hover {
   background-color: #04A2C1;
   text-align: center;
@@ -54,13 +57,13 @@ li {
     top: 0;
   }
 }
-
+<!--media query for mobile compatibility,the page will be displayed differently depending on screen size or browser size-->
 ul {
   width: 100%;
   background-color: #191919;
-
 }
-      </style>
+ <!--size is used in viewport width for responsiveness-->
+ </style>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--used to set width of conetnt according to device width-->
     <title>ISTE HOMEPAGE</title>
